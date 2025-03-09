@@ -6,6 +6,10 @@ Plan:
 "2. Liquidity pool ($25,000) — launch of trading."
 "3. Security ($30,000) — smart contract audit."
 "4. Marketing ($30,000) — user acquisition."
+## Contact
+Email: mixailkashkarov@ukr.net
 https://builder.gitcoin.co/#/chains/10/registry/0x/projects/0xfef703a1e8fe865e4663d1d69ffb6e866fa0391036a9e220756194f83678731a
 https://x.com/MihailKashkarov
 https://discord.gg/mCK3pjWT
+https://www.facebook.com/mixailkashkarov/
+https://opensea.io/0x59AbeDf7c2361d0765eB47f242309419f74
