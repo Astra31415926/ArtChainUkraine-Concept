@@ -6,6 +6,7 @@ Plan:
 "2. Liquidity pool ($25,000) — launch of trading."
 "3. Security ($30,000) — smart contract audit."
 "4. Marketing ($30,000) — user acquisition."
+https://github.com/Astra31415926/ArtChainUkraine-Concept/blob/main/ROADMAP.md
 ## Contact
 Email: mixailkashkarov@ukr.net
 https://builder.gitcoin.co/#/chains/10/registry/0x/projects/0xfef703a1e8fe865e4663d1d69ffb6e866fa0391036a9e220756194f83678731a
